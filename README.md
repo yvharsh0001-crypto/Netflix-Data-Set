@@ -1,5 +1,5 @@
 # Netflix-Data-Set
-##Project Overview
+## Project Overview
 
 This project focuses on performing data analysis and insight extraction from a Netflix dataset using Apache Hive.
 The primary goal is to utilize Hive’s SQL-like querying capabilities to analyze key trends in Netflix content, such as genre popularity, release year trends, content type distribution, country-based insights, and director/actor contributions.
